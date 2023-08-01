@@ -1,1 +1,17 @@
 This is my project file developed from my PC .
+
+First we need cretate a repo on git . 
+Second we need to create a folder on our machine . 
+Third we need to cretate a file inside it . 
+ on to the command line we need to got o that particulat folder path 
+
+git init 
+
+we have to use git clone command from git repo 
+
+git add . 
+
+git commit -m "This is my first push"
+
+git push -u origin main 
+
